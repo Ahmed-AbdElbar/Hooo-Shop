@@ -1,0 +1,21 @@
+.table {
+  position: relative;
+  width: 100%;
+  max-width: 1500px;
+  padding: 30px 30px 30px;
+  /*background: rgba(0,0,0,0.7);*/
+ background: rgba(0,0,0,0.35) ;
+  border-radius: 25px;
+  color: white;
+  box-shadow: 0 15px 25px rgba(0,0,0,0.4); 
+  margin-left:50px;
+  max-height:450px;
+font-size:20px;
+
+font-family:Maiandra GD
+;}
+h1{
+color:rgba(0,0,0,0.5);
+font-family:Maiandra GD
+}
+
